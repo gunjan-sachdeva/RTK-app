@@ -5,6 +5,10 @@
   color: aqua;
   background-color: black;
 }
+.heading{
+  color: burlywood;
+  background-color: darkgreen;
+}
 
 .App-logo {
   height: 40vmin;
