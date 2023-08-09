@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
        
-      <h1>Redux Toolkit App Created by Gunjan Sachdeva</h1>
+      <h1 className='box'>Redux Toolkit App Created by Gunjan Sachdeva</h1>
       <Counter />
     </div>
   );

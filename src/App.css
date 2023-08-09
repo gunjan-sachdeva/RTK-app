@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.box{
+  color: aqua;
+  background-color: black;
+}
 
 .App-logo {
   height: 40vmin;
